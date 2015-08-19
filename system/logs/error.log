@@ -1,0 +1,2 @@
+2015-08-19 11:12:25 - PHP Warning:  session_start(): open(/var/lib/php/session/sess_ikm0endcf0fndvgq83qsihb5f4, O_RDWR) failed: Permission denied (13) in /usr/share/nginx/html/system/library/session.php on line 12
+2015-08-19 11:13:00 - PHP Warning:  session_start(): open(/var/lib/php/session/sess_ikm0endcf0fndvgq83qsihb5f4, O_RDWR) failed: Permission denied (13) in /usr/share/nginx/html/system/library/session.php on line 12

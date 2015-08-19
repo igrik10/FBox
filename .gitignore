@@ -1,0 +1,6 @@
+.idea
+php.ini
+admin/config.php
+admin/config-dist.php
+config.php
+config-dist.php
